@@ -1,3 +1,8 @@
+## De link naar de werkende site
+http://29093.hosts2.ma-cloud.nl/Bewijzenmap2/P3/Bo/les2A/testMyApi.html
+
+
+
 ## Les2A
 
 Het HTTP request wordt met ```<form action = "myApi.php">``` gedaan, de ingevoerde tekst komt rechtstreeks uit het Input veld.
